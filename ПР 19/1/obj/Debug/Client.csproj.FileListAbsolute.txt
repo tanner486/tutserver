@@ -1,0 +1,26 @@
+D:\оаип практики\ПР 19\1\bin\Debug\1.exe
+D:\оаип практики\ПР 19\1\bin\Debug\1.pdb
+D:\оаип практики\ПР 19\1\obj\Debug\Client.csprojAssemblyReference.cache
+D:\оаип практики\ПР 19\1\obj\Debug\_1.Form1.resources
+D:\оаип практики\ПР 19\1\obj\Debug\_1.Properties.Resources.resources
+D:\оаип практики\ПР 19\1\obj\Debug\Client.csproj.GenerateResource.cache
+D:\оаип практики\ПР 19\1\obj\Debug\1.exe
+D:\оаип практики\ПР 19\1\obj\Debug\1.pdb
+F:\оаип практики\ПР 19\1\bin\Debug\1.exe
+F:\оаип практики\ПР 19\1\bin\Debug\1.pdb
+F:\оаип практики\ПР 19\1\obj\Debug\Client.csproj.AssemblyReference.cache
+F:\оаип практики\ПР 19\1\obj\Debug\_1.Form1.resources
+F:\оаип практики\ПР 19\1\obj\Debug\_1.Properties.Resources.resources
+F:\оаип практики\ПР 19\1\obj\Debug\Client.csproj.GenerateResource.cache
+F:\оаип практики\ПР 19\1\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\оаип практики\ПР 19\1\obj\Debug\1.exe
+F:\оаип практики\ПР 19\1\obj\Debug\1.pdb
+C:\Users\admin\Desktop\ПР 19\1\bin\Debug\1.exe
+C:\Users\admin\Desktop\ПР 19\1\bin\Debug\1.pdb
+C:\Users\admin\Desktop\ПР 19\1\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ПР 19\1\obj\Debug\_1.Form1.resources
+C:\Users\admin\Desktop\ПР 19\1\obj\Debug\_1.Properties.Resources.resources
+C:\Users\admin\Desktop\ПР 19\1\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ПР 19\1\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ПР 19\1\obj\Debug\1.exe
+C:\Users\admin\Desktop\ПР 19\1\obj\Debug\1.pdb
